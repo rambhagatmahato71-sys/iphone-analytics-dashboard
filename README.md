@@ -2,6 +2,8 @@
 
 📌 About the Project
 
+**live demo** (https://iphone-dashboard-ram.streamlit.app)
+
 This project is an interactive dashboard built using Python, Pandas, Plotly, and Streamlit to analyze iPhone product data from Flipkart.
 
 It helps users explore iPhone prices, discounts, customer ratings, and review counts through interactive visualizations.
